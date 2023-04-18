@@ -106,6 +106,8 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 
 Output:
 
+[NITHIYA 2.2.pdf](https://github.com/NITHIYANANDAN278/EX.No.-2.2-CREATE-A-3D-SOLID-MODEL-FROM-ISOMETRIC-DRAWING/files/11259295/NITHIYA.2.2.pdf)
+
 ## RESULT: 
 Thus, the 3D model is created from given isometric drawing.
 
